@@ -73,3 +73,6 @@ $ python train.py
     + Find state-of-the-art method/model(paper) on TinyImageNet-200 dataset
     + Check difference between baseline and state-of-the-art
     + Apply missing stuff in the baseline
+# Homework
+# Homework
+# Homework
